@@ -1,6 +1,6 @@
 // Roast of this team's own agent: one line, UTF-8, no trailing newline.
 const LINE =
-  "My agent lets every wrong password in and calls it less friction.";
+  "A wrong password logged in, and my agent filed the hole as less friction.";
 
 const chars = [...LINE].length;
 if (chars < 1 || chars > 199 || LINE.trim().length === 0) {
